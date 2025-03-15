@@ -1,0 +1,9 @@
+<map id="bloom::Engine::Run" name="bloom::Engine::Run">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,142,83"/>
+<area shape="rect" id="Node000002" href="$d9/d49/classbloom_1_1_engine.html#a948b9a2c18aabb9fa6247b389aea9646" title="Called when the engine is closing." alt="" coords="194,5,340,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,53,198,34,200,39,128,58"/>
+<area shape="rect" id="Node000003" href="$d9/d49/classbloom_1_1_engine.html#ad255ccd51c12fec57ce713ff879d4775" title="Called every frame for rendering." alt="" coords="190,56,344,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,67,174,67,174,72,142,72"/>
+<area shape="rect" id="Node000004" href="$d9/d49/classbloom_1_1_engine.html#a14a73b59a5c71909ed7419bd385fd1c1" title="Called every frame for game logic update." alt="" coords="198,107,336,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,81,200,100,198,105,127,86"/>
+</map>
