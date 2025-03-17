@@ -5,5 +5,6 @@ var classbloom_1_1_engine =
     [ "Init", "d9/d49/classbloom_1_1_engine.html#aabae09bc72008aab7dad4a42ef714cf4", null ],
     [ "Render", "d9/d49/classbloom_1_1_engine.html#ad255ccd51c12fec57ce713ff879d4775", null ],
     [ "Run", "d9/d49/classbloom_1_1_engine.html#a2f65475fe099eb075a8b752512c82f53", null ],
-    [ "Tick", "d9/d49/classbloom_1_1_engine.html#a14a73b59a5c71909ed7419bd385fd1c1", null ]
+    [ "Tick", "d9/d49/classbloom_1_1_engine.html#a14a73b59a5c71909ed7419bd385fd1c1", null ],
+    [ "m_window", "d9/d49/classbloom_1_1_engine.html#a8d9a1aedd783813632410057ecd288f6", null ]
 ];

@@ -1,0 +1,9 @@
+<map id="inc/engine/src/Bloom/Event/Event.hpp" name="inc/engine/src/Bloom/Event/Event.hpp">
+<area shape="rect" id="Node000001" title="Provides the base classes and macros to define and handle events in the Bloom Engine." alt="" coords="188,5,332,48"/>
+<area shape="rect" id="Node000002" href="$da/dab/_game_event_8hpp.html" title="Defines game&#45;specific events in the Bloom Engine." alt="" coords="5,96,163,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,58,126,98,124,93,204,53"/>
+<area shape="rect" id="Node000003" href="$dc/d8a/_key_event_8hpp.html" title="Defines keyboard&#45;related events in the Bloom Engine." alt="" coords="187,96,333,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,64,263,96,257,96,257,64"/>
+<area shape="rect" id="Node000004" href="$d3/dfe/_mouse_event_8hpp.html" title="Defines mouse&#45;related events in the Bloom Engine." alt="" coords="357,96,518,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,53,397,93,395,98,314,58"/>
+</map>

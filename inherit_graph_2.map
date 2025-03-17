@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d4/d40/classbloom_1_1_event_1_1_event.html" title="Abstract base class for all events in the Bloom Engine." alt="" coords="5,183,146,209"/>
+<area shape="rect" id="Node000001" href="$db/dba/classbloom_1_1_event_1_1_game_render.html" title="Represents an event triggered during the game rendering phase." alt="" coords="199,5,382,32"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="88,167,129,104,158,70,192,42,215,30,217,35,195,46,162,74,133,107,93,170"/>
+<area shape="rect" id="Node000002" href="$d5/d85/classbloom_1_1_event_1_1_game_tick.html" title="Represents an event triggered during the game update phase." alt="" coords="208,56,374,83"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="97,169,139,130,192,92,220,81,222,86,195,97,142,134,101,173"/>
+<area shape="rect" id="Node000003" href="$df/d48/classbloom_1_1_event_1_1_key.html" title="Base class for all keyboard events." alt="" coords="226,107,356,133"/>
+<area shape="poly" id="edge4_Node000000_Node000003" title=" " alt="" coords="118,173,193,143,231,131,232,136,195,148,120,178"/>
+<area shape="rect" id="Node000007" href="$d9/da5/classbloom_1_1_event_1_1_mouse_button.html" title="Base class for mouse button events." alt="" coords="199,157,382,184"/>
+<area shape="poly" id="edge8_Node000000_Node000007" title=" " alt="" coords="160,183,198,179,199,184,161,189"/>
+<area shape="rect" id="Node000010" href="$dd/d3c/classbloom_1_1_event_1_1_mouse_moved.html" title="Represents an event triggered when the mouse is moved." alt="" coords="199,208,383,235"/>
+<area shape="poly" id="edge11_Node000000_Node000010" title=" " alt="" coords="161,203,199,208,198,213,161,209"/>
+<area shape="rect" id="Node000011" href="$dd/d9a/classbloom_1_1_event_1_1_mouse_scrolled.html" title="Represents an event triggered when the mouse wheel is scrolled." alt="" coords="195,259,387,285"/>
+<area shape="poly" id="edge12_Node000000_Node000011" title=" " alt="" coords="120,214,195,244,232,256,231,261,193,249,118,219"/>
+<area shape="rect" id="Node000012" href="$d3/d46/classbloom_1_1_event_1_1_window_close.html" title="Represents an event triggered when the application window is closed." alt="" coords="197,309,384,336"/>
+<area shape="poly" id="edge13_Node000000_Node000012" title=" " alt="" coords="101,219,142,258,195,295,222,306,220,311,192,300,139,262,97,223"/>
+<area shape="rect" id="Node000013" href="$d9/d7e/classbloom_1_1_event_1_1_window_resize.html" title="Represents an event triggered when the application window is resized." alt="" coords="194,360,388,387"/>
+<area shape="poly" id="edge14_Node000000_Node000013" title=" " alt="" coords="93,222,133,285,162,318,195,346,217,357,215,362,192,350,158,322,129,288,88,225"/>
+<area shape="rect" id="Node000004" href="$dc/dba/classbloom_1_1_event_1_1_key_pressed.html" title="Represents an event triggered when a key is pressed." alt="" coords="440,5,617,32"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="369,101,387,92,401,81,410,68,419,55,435,42,459,30,462,35,437,46,423,58,414,71,405,84,389,97,371,106"/>
+<area shape="rect" id="Node000005" href="$d0/d93/classbloom_1_1_event_1_1_key_released.html" title="Represents an event triggered when a key is released. The KeyReleased class provides information abou..." alt="" coords="436,56,620,83"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="370,101,461,81,463,86,371,106"/>
+<area shape="rect" id="Node000006" href="$d0/d61/classbloom_1_1_event_1_1_key_typed.html" title="Represents an event triggered when a printable key is typed." alt="" coords="446,107,610,133"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="371,117,446,117,446,123,371,123"/>
+<area shape="rect" id="Node000008" href="$d2/dfb/classbloom_1_1_event_1_1_mouse_button_pressed.html" title="Represents an event triggered when a mouse button is pressed." alt="" coords="436,157,620,200"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="398,172,436,173,436,178,398,177"/>
+<area shape="rect" id="Node000009" href="$d5/db6/classbloom_1_1_event_1_1_mouse_button_released.html" title="Represents an event triggered when a mouse button is released." alt="" coords="436,224,620,267"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="363,186,389,193,467,221,466,226,387,199,362,191"/>
+</map>

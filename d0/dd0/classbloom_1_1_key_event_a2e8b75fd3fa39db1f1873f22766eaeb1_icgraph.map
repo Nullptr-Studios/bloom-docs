@@ -1,0 +1,9 @@
+<map id="bloom::KeyEvent::KeyEvent" name="bloom::KeyEvent::KeyEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,80,416,107"/>
+<area shape="rect" id="Node000002" href="$dc/d29/classbloom_1_1_key_pressed_event.html#a57f5d51298133165100ff316a32decf2" title="Constructs a KeyPressedEvent." alt="" coords="9,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,78,169,51,170,46,260,73"/>
+<area shape="rect" id="Node000003" href="$d6/d19/classbloom_1_1_key_released_event.html#aa10652e5abeff85e42406b862319883a" title="Constructs a KeyReleasedEvent." alt="" coords="5,72,182,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,96,182,96,182,91,214,91"/>
+<area shape="rect" id="Node000004" href="$d6/d31/classbloom_1_1_key_typed_event.html#a8a4977a8234522ed2a2a6c8276ea3891" title="Constructs a KeyTypedEvent." alt="" coords="15,139,172,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,114,170,141,169,135,259,109"/>
+</map>

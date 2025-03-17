@@ -1,0 +1,5 @@
+<map id="bloom::MouseMovedEvent" name="bloom::MouseMovedEvent">
+<area shape="rect" id="Node000001" title="Represents an event triggered when the mouse is moved." alt="" coords="5,123,171,277"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,110,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,90,91,123,86,123,86,90"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bloom::Event::Event::GetName" name="bloom::Event::Event::GetName">
+<area shape="rect" id="Node000001" title="Gets the name of the event." alt="" coords="382,5,522,48"/>
+<area shape="rect" id="Node000002" href="$d4/d40/classbloom_1_1_event_1_1_event.html#a4c25d91834a65d26517a1560c18a815e" title="Converts the event to a string representation." alt="" coords="194,5,334,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,29,334,29,334,24,367,24"/>
+<area shape="rect" id="Node000003" href="$d4/d40/classbloom_1_1_event_1_1_event.html#af7540cb6b47e9b3e04b4ec31b2475997" title="Operator &lt;&lt; overload." alt="" coords="5,5,146,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,29,146,29,146,24,178,24"/>
+</map>

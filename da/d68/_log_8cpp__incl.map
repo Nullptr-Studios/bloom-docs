@@ -1,0 +1,17 @@
+<map id="inc/engine/src/Bloom/Log.cpp" name="inc/engine/src/Bloom/Log.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,5,399,48"/>
+<area shape="rect" id="Node000002" href="$d8/dce/_log_8hpp.html" title="Header file for the Log library class." alt="" coords="46,104,113,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,51,126,98,121,100,119,95,124,94,260,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="137,104,249,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="297,51,226,98,223,93,294,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="273,104,382,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="330,48,330,88,325,88,325,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="406,96,540,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="363,46,428,86,425,90,360,51"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="564,96,694,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="399,46,550,90,549,95,397,51"/>
+<area shape="rect" id="Node000003" href="$d4/d09/_core_8h.html" title="Core defines of the engine." alt="" coords="5,187,66,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,132,52,175,47,172,70,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="89,187,158,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="89,130,112,172,107,175,84,132"/>
+</map>

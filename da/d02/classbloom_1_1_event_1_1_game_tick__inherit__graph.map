@@ -1,0 +1,5 @@
+<map id="bloom::Event::GameTick" name="bloom::Event::GameTick">
+<area shape="rect" id="Node000001" title="Represents an event triggered during the game update phase." alt="" coords="5,293,161,363"/>
+<area shape="rect" id="Node000002" href="$d4/d40/classbloom_1_1_event_1_1_event.html" title="Abstract base class for all events in the Bloom Engine." alt="" coords="14,5,152,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,260,86,294,80,294,80,260"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bloom::Log" name="bloom::Log">
+<area shape="rect" id="Node000001" title="Centralized logging system for the engine and game." alt="" coords="15,437,144,549"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,272,153,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,357,82,421,76,421,76,357"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,139,144,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,223,82,272,76,272,76,223"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="70,5,88,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,75,82,122,76,122,76,75"/>
+</map>

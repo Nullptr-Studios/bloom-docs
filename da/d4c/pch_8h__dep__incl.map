@@ -1,0 +1,23 @@
+<map id="inc/engine/src/pch.h" name="inc/engine/src/pch.h">
+<area shape="rect" id="Node000001" title="Precompiled header file." alt="" coords="501,5,640,32"/>
+<area shape="rect" id="Node000002" href="$db/db9/_engine_8hpp.html" title="Main engine class." alt="" coords="161,80,305,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,39,306,85,305,80,502,33"/>
+<area shape="rect" id="Node000006" href="$d6/dc3/_event_8hpp.html" title="Provides the base classes and macros to define and handle events in the Bloom Engine." alt="" coords="415,80,558,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="548,45,509,82,506,78,545,41"/>
+<area shape="rect" id="Node000010" href="$d3/db8/_window_8cpp.html" title=" " alt="" coords="583,80,726,123"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="596,41,635,78,631,82,592,45"/>
+<area shape="rect" id="Node000011" href="$dd/d2e/pch_8cpp.html" title=" " alt="" coords="750,88,902,115"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="625,34,787,85,785,90,624,40"/>
+<area shape="rect" id="Node000003" href="$d4/d68/_engine_8cpp.html" title=" " alt="" coords="5,171,149,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,133,115,172,112,168,182,128"/>
+<area shape="rect" id="Node000004" href="$d7/d1c/_sandbox_8hpp.html" title="[TODO: Brief description of the file&#39;s purpose]" alt="" coords="173,179,293,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,138,236,178,230,178,230,138"/>
+<area shape="rect" id="Node000005" href="$d2/d5b/_sandbox_8cpp.html" title=" " alt="" coords="173,261,293,288"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,221,236,261,230,261,230,221"/>
+<area shape="rect" id="Node000007" href="$da/dab/_game_event_8hpp.html" title="Defines game&#45;specific events in the Bloom Engine." alt="" coords="317,171,474,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="456,136,418,172,415,168,452,132"/>
+<area shape="rect" id="Node000008" href="$dc/d8a/_key_event_8hpp.html" title="Defines keyboard&#45;related events in the Bloom Engine." alt="" coords="499,171,644,213"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="519,132,554,169,550,172,515,136"/>
+<area shape="rect" id="Node000009" href="$d3/dfe/_mouse_event_8hpp.html" title="Defines mouse&#45;related events in the Bloom Engine." alt="" coords="668,171,830,213"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="563,126,688,167,687,173,561,131"/>
+</map>

@@ -1,5 +1,19 @@
 var searchData=
 [
-  ['render_0',['Render',['../d9/d49/classbloom_1_1_engine.html#ad255ccd51c12fec57ce713ff879d4775',1,'bloom::Engine']]],
-  ['run_1',['Run',['../d9/d49/classbloom_1_1_engine.html#a2f65475fe099eb075a8b752512c82f53',1,'bloom::Engine']]]
+  ['gamerender_0',['GameRender',['../db/dba/classbloom_1_1_event_1_1_game_render.html#a0b6c3f6ab420f62245226548852f1857',1,'bloom::Event::GameRender']]],
+  ['gametick_1',['GameTick',['../d5/d85/classbloom_1_1_event_1_1_game_tick.html#a13271d57e770aba5eb9e4597ee8e8fad',1,'bloom::Event::GameTick']]],
+  ['getbloomlogger_2',['GetBloomLogger',['../d7/d33/classbloom_1_1_log.html#aad38d3784727402356dcb4110857960b',1,'bloom::Log']]],
+  ['getcategoryflags_3',['GetCategoryFlags',['../d4/d40/classbloom_1_1_event_1_1_event.html#ae56484548c6d3666dda859509204c870',1,'bloom::Event::Event']]],
+  ['geteventtype_4',['GetEventType',['../d4/d40/classbloom_1_1_event_1_1_event.html#a5453577784273858ecdd994f196fb1b3',1,'bloom::Event::Event']]],
+  ['getgamelogger_5',['GetGameLogger',['../d7/d33/classbloom_1_1_log.html#ae0d90b09e56830d02412deb0d1f87d0c',1,'bloom::Log']]],
+  ['getheight_6',['GetHeight',['../d9/d7e/classbloom_1_1_event_1_1_window_resize.html#abd03137c69ee5416fc4a8e4b9fea037d',1,'bloom::Event::WindowResize']]],
+  ['getkeycode_7',['GetKeyCode',['../df/d48/classbloom_1_1_event_1_1_key.html#a932cb54f3f6383a1a59a6929e0d47a70',1,'bloom::Event::Key']]],
+  ['getmousebutton_8',['GetMouseButton',['../d9/da5/classbloom_1_1_event_1_1_mouse_button.html#af1ac14c82ae0a6743861316577ee1801',1,'bloom::Event::MouseButton']]],
+  ['getname_9',['GetName',['../d4/d40/classbloom_1_1_event_1_1_event.html#ae595aebec45ada2d703769225ffd83ee',1,'bloom::Event::Event']]],
+  ['getrepeatcount_10',['GetRepeatCount',['../dc/dba/classbloom_1_1_event_1_1_key_pressed.html#ab9594282a0499f7ad022a1a1c1e584b7',1,'bloom::Event::KeyPressed']]],
+  ['getwidth_11',['GetWidth',['../d9/d7e/classbloom_1_1_event_1_1_window_resize.html#ae0f7b73b3d4b597ea1a2b384ef3d05c1',1,'bloom::Event::WindowResize']]],
+  ['getx_12',['GetX',['../dd/d3c/classbloom_1_1_event_1_1_mouse_moved.html#aafe8eeef0a71ef9312ad1847b2263b2c',1,'bloom::Event::MouseMoved']]],
+  ['getxoffset_13',['GetXOffset',['../dd/d9a/classbloom_1_1_event_1_1_mouse_scrolled.html#a65733bcdc99597250faa1561fa365c89',1,'bloom::Event::MouseScrolled']]],
+  ['gety_14',['GetY',['../dd/d3c/classbloom_1_1_event_1_1_mouse_moved.html#a5720004b6d8775652a6ef44cbc0cbea7',1,'bloom::Event::MouseMoved']]],
+  ['getyoffset_15',['GetYOffset',['../dd/d9a/classbloom_1_1_event_1_1_mouse_scrolled.html#a13279eb4150d68d100341ce05cd161a8',1,'bloom::Event::MouseScrolled']]]
 ];

@@ -1,0 +1,7 @@
+<map id="bloom::KeyReleasedEvent" name="bloom::KeyReleasedEvent">
+<area shape="rect" id="Node000001" title="Represents an event triggered when a key is released. The KeyReleasedEvent class provides information..." alt="" coords="5,432,171,523"/>
+<area shape="rect" id="Node000002" href="$d0/dd0/classbloom_1_1_key_event.html" title="Base class for all keyboard events." alt="" coords="33,293,144,384"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,399,91,432,86,432,86,399"/>
+<area shape="rect" id="Node000003" href="$d8/d74/classbloom_1_1_event.html" title="Abstract base class for all events in the Bloom Engine." alt="" coords="19,5,157,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,260,91,293,86,293,86,260"/>
+</map>

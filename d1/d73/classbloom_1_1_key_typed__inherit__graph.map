@@ -1,0 +1,7 @@
+<map id="bloom::KeyTyped" name="bloom::KeyTyped">
+<area shape="rect" id="Node000001" title="Represents an event triggered when a printable key is typed." alt="" coords="5,261,117,352"/>
+<area shape="rect" id="Node000002" href="$d0/d3a/classbloom_1_1_key.html" title="Base class for all keyboard events." alt="" coords="8,123,115,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,228,64,262,58,262,58,228"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="39,5,84,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,89,64,123,58,123,58,89"/>
+</map>

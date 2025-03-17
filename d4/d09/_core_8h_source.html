@@ -107,21 +107,26 @@ $(function(){initNavTree('d4/d09/_core_8h_source.html','../../'); initResizable(
 </div><!--header-->
 <div class="contents">
 <a href="../../d4/d09/_core_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#pragma once</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#pragma once</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="comment">// NOTE: Do not include the pch on this file -x</span></div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="preprocessor">#ifndef PLATFORM_LINUX</span><span class="preprocessor"></span></div>
 <div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="../../d4/d09/_core_8h.html#a5156a290b9b817f99a64b60ec01376f9">   17</a></span><span class="preprocessor">  #define BLOOM_API __declspec(dllexport)</span></div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#else</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span><span class="preprocessor">  #error BLoom engine does not support linux yet</span></div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>  <span class="comment">// TODO: Add support for linux</span></div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span></div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno"><a class="line" href="../../d4/d09/_core_8h.html#ad27cc17b25bb93134368d5eb21126eae">   28</a></span><span class="preprocessor">#define BIT(x) (1 &lt;&lt; x)</span></div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_bfccd401955b95cf8c75461437045ac0.html">inc</a></li><li class="navelem"><a class="el" href="../../dir_5930b5466ff55e3e8a1c177c6b81b15a.html">engine</a></li><li class="navelem"><a class="el" href="../../dir_a05202d0f07cfb6256517a50314c2954.html">src</a></li><li class="navelem"><a class="el" href="../../dir_c86983959e5836744d6bb5244adb156f.html">Bloom</a></li><li class="navelem"><a class="el" href="../../d4/d09/_core_8h.html">Core.h</a></li>
-    <li class="footer">Generated on Sat Mar 15 2025 for Bloom Engine by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Mon Mar 17 2025 for Bloom Engine by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

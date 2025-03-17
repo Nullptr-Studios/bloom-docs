@@ -1,0 +1,5 @@
+<map id="bloom::WindowResizeEvent" name="bloom::WindowResizeEvent">
+<area shape="rect" id="Node000001" title="Represents an event triggered when the application window is resized." alt="" coords="5,293,181,448"/>
+<area shape="rect" id="Node000002" href="$d8/d74/classbloom_1_1_event.html" title="Abstract base class for all events in the Bloom Engine." alt="" coords="24,5,162,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,260,96,294,90,294,90,260"/>
+</map>

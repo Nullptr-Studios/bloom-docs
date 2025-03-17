@@ -1,5 +1,19 @@
 <map id="game::Application" name="game::Application">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,120,299"/>
-<area shape="rect" id="Node000002" href="$d9/d49/classbloom_1_1_engine.html" title="Main Bloom engine class." alt="" coords="16,5,110,181"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,196,65,229,60,229,60,196"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,979,199,1048"/>
+<area shape="rect" id="Node000002" href="$d9/d49/classbloom_1_1_engine.html" title="Main Bloom engine class." alt="" coords="95,753,189,929"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,944,145,979,139,979,139,944"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="70,604,214,689"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,689,145,736,139,736,139,689"/>
+<area shape="rect" id="Node000004" href="$d5/d8b/classbloom_1_1_window.html" title="Wrapper for the GLFW window." alt="" coords="20,428,126,540"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,539,120,587,115,589,94,541"/>
+<area shape="rect" id="Node000005" href="$d3/dd1/structbloom_1_1_window_props.html" title="This structs holds the properties of the window." alt="" coords="5,273,140,364"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="75,364,75,411,70,411,70,364"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="38,140,107,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="75,209,75,256,70,256,70,209"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="15,5,130,91"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="75,106,75,140,70,140,70,106"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="150,449,278,519"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="195,533,163,605,158,603,191,531"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="205,284,223,353"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="217,353,217,432,211,432,211,353"/>
 </map>

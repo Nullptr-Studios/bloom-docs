@@ -1,0 +1,7 @@
+<map id="bloom::Event::MouseButtonReleased" name="bloom::Event::MouseButtonReleased">
+<area shape="rect" id="Node000001" title="Represents an event triggered when a mouse button is released." alt="" coords="5,432,178,539"/>
+<area shape="rect" id="Node000002" href="$d9/da5/classbloom_1_1_event_1_1_mouse_button.html" title="Base class for mouse button events." alt="" coords="5,293,178,384"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,399,94,432,89,432,89,399"/>
+<area shape="rect" id="Node000003" href="$d4/d40/classbloom_1_1_event_1_1_event.html" title="Abstract base class for all events in the Bloom Engine." alt="" coords="23,5,161,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,260,94,293,89,293,89,260"/>
+</map>

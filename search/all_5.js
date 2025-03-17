@@ -1,4 +1,27 @@
 var searchData=
 [
-  ['init_0',['Init',['../d9/d49/classbloom_1_1_engine.html#aabae09bc72008aab7dad4a42ef714cf4',1,'bloom::Engine']]]
+  ['game_0',['game',['../d3/d2c/namespacegame.html',1,'']]],
+  ['game_5fcritical_1',['GAME_CRITICAL',['../d8/dce/_log_8hpp.html#a4bb0d487d8ffdea891dd3956424c665e',1,'Log.hpp']]],
+  ['game_5ferror_2',['GAME_ERROR',['../d8/dce/_log_8hpp.html#ab2e7e1a5568f63190b51106c8364aae2',1,'Log.hpp']]],
+  ['game_5finfo_3',['GAME_INFO',['../d8/dce/_log_8hpp.html#ae2300416c5629b4129d9a800ae26ddda',1,'Log.hpp']]],
+  ['game_5flog_4',['GAME_LOG',['../d8/dce/_log_8hpp.html#afd3a8bed7f500548c0150fa4550b2e54',1,'Log.hpp']]],
+  ['game_5fwarn_5',['GAME_WARN',['../d8/dce/_log_8hpp.html#a5242ab9b8cb5d62d5d0e48787ab4737d',1,'Log.hpp']]],
+  ['gameevent_2ehpp_6',['GameEvent.hpp',['../da/dab/_game_event_8hpp.html',1,'']]],
+  ['gamerender_7',['GameRender',['../db/dba/classbloom_1_1_event_1_1_game_render.html',1,'bloom::Event::GameRender'],['../db/dba/classbloom_1_1_event_1_1_game_render.html#a0b6c3f6ab420f62245226548852f1857',1,'bloom::Event::GameRender::GameRender()'],['../de/ddb/namespacebloom_1_1_event.html#a41227f068489293537415d66255ecde8ade3a7b709f5ee22b079830228c6ee64f',1,'bloom::Event::GameRender']]],
+  ['gametick_8',['GameTick',['../d5/d85/classbloom_1_1_event_1_1_game_tick.html',1,'bloom::Event::GameTick'],['../d5/d85/classbloom_1_1_event_1_1_game_tick.html#a13271d57e770aba5eb9e4597ee8e8fad',1,'bloom::Event::GameTick::GameTick()'],['../de/ddb/namespacebloom_1_1_event.html#a41227f068489293537415d66255ecde8a60cf5bcff8ec316d605b0e6cf2a25ead',1,'bloom::Event::GameTick']]],
+  ['gameupdate_9',['GameUpdate',['../de/ddb/namespacebloom_1_1_event.html#a41227f068489293537415d66255ecde8aef4fc18ac653054a7c704b887b6563e5',1,'bloom::Event']]],
+  ['getbloomlogger_10',['GetBloomLogger',['../d7/d33/classbloom_1_1_log.html#aad38d3784727402356dcb4110857960b',1,'bloom::Log']]],
+  ['getcategoryflags_11',['GetCategoryFlags',['../d4/d40/classbloom_1_1_event_1_1_event.html#ae56484548c6d3666dda859509204c870',1,'bloom::Event::Event']]],
+  ['geteventtype_12',['GetEventType',['../d4/d40/classbloom_1_1_event_1_1_event.html#a5453577784273858ecdd994f196fb1b3',1,'bloom::Event::Event']]],
+  ['getgamelogger_13',['GetGameLogger',['../d7/d33/classbloom_1_1_log.html#ae0d90b09e56830d02412deb0d1f87d0c',1,'bloom::Log']]],
+  ['getheight_14',['GetHeight',['../d9/d7e/classbloom_1_1_event_1_1_window_resize.html#abd03137c69ee5416fc4a8e4b9fea037d',1,'bloom::Event::WindowResize']]],
+  ['getkeycode_15',['GetKeyCode',['../df/d48/classbloom_1_1_event_1_1_key.html#a932cb54f3f6383a1a59a6929e0d47a70',1,'bloom::Event::Key']]],
+  ['getmousebutton_16',['GetMouseButton',['../d9/da5/classbloom_1_1_event_1_1_mouse_button.html#af1ac14c82ae0a6743861316577ee1801',1,'bloom::Event::MouseButton']]],
+  ['getname_17',['GetName',['../d4/d40/classbloom_1_1_event_1_1_event.html#ae595aebec45ada2d703769225ffd83ee',1,'bloom::Event::Event']]],
+  ['getrepeatcount_18',['GetRepeatCount',['../dc/dba/classbloom_1_1_event_1_1_key_pressed.html#ab9594282a0499f7ad022a1a1c1e584b7',1,'bloom::Event::KeyPressed']]],
+  ['getwidth_19',['GetWidth',['../d9/d7e/classbloom_1_1_event_1_1_window_resize.html#ae0f7b73b3d4b597ea1a2b384ef3d05c1',1,'bloom::Event::WindowResize']]],
+  ['getx_20',['GetX',['../dd/d3c/classbloom_1_1_event_1_1_mouse_moved.html#aafe8eeef0a71ef9312ad1847b2263b2c',1,'bloom::Event::MouseMoved']]],
+  ['getxoffset_21',['GetXOffset',['../dd/d9a/classbloom_1_1_event_1_1_mouse_scrolled.html#a65733bcdc99597250faa1561fa365c89',1,'bloom::Event::MouseScrolled']]],
+  ['gety_22',['GetY',['../dd/d3c/classbloom_1_1_event_1_1_mouse_moved.html#a5720004b6d8775652a6ef44cbc0cbea7',1,'bloom::Event::MouseMoved']]],
+  ['getyoffset_23',['GetYOffset',['../dd/d9a/classbloom_1_1_event_1_1_mouse_scrolled.html#a13279eb4150d68d100341ce05cd161a8',1,'bloom::Event::MouseScrolled']]]
 ];

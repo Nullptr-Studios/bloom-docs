@@ -1,0 +1,11 @@
+<map id="bloom::Event::Key" name="bloom::Event::Key">
+<area shape="rect" id="Node000001" title="Base class for all keyboard events." alt="" coords="224,293,343,384"/>
+<area shape="rect" id="Node000003" href="$dc/dba/classbloom_1_1_event_1_1_key_pressed.html" title="Represents an event triggered when a key is pressed." alt="" coords="5,432,172,544"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,395,163,434,160,430,212,391"/>
+<area shape="rect" id="Node000004" href="$d0/d93/classbloom_1_1_event_1_1_key_released.html" title="Represents an event triggered when a key is released. The KeyReleased class provides information abou..." alt="" coords="196,443,370,533"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,399,286,443,281,443,281,399"/>
+<area shape="rect" id="Node000005" href="$d0/d61/classbloom_1_1_event_1_1_key_typed.html" title="Represents an event triggered when a printable key is typed." alt="" coords="394,443,548,533"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="352,390,417,441,414,445,349,395"/>
+<area shape="rect" id="Node000002" href="$d4/d40/classbloom_1_1_event_1_1_event.html" title="Abstract base class for all events in the Bloom Engine." alt="" coords="214,5,352,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,260,286,293,281,293,281,260"/>
+</map>

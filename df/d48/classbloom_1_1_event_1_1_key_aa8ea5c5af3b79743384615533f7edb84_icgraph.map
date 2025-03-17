@@ -1,0 +1,9 @@
+<map id="bloom::Event::Key::Key" name="bloom::Event::Key::Key">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,80,398,107"/>
+<area shape="rect" id="Node000002" href="$dc/dba/classbloom_1_1_event_1_1_key_pressed.html#afcfdff5404e464a4edd16fa6f39868eb" title="Constructs a KeyPressed." alt="" coords="9,5,186,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,77,170,51,171,46,257,72"/>
+<area shape="rect" id="Node000003" href="$d0/d93/classbloom_1_1_event_1_1_key_released.html#a1a15706cd11385508c3e7b8b8bb92f4e" title="Constructs a KeyReleased." alt="" coords="5,72,190,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,96,190,96,190,91,222,91"/>
+<area shape="rect" id="Node000004" href="$d0/d61/classbloom_1_1_event_1_1_key_typed.html#af95e7a5b4f50c04ca2da3c28fb1f85ed" title="Constructs a KeyTyped." alt="" coords="15,139,180,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,114,171,141,170,135,255,109"/>
+</map>

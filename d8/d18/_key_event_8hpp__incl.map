@@ -1,0 +1,33 @@
+<map id="inc/engine/src/Bloom/Event/KeyEvent.hpp" name="inc/engine/src/Bloom/Event/KeyEvent.hpp">
+<area shape="rect" id="Node000001" title="Defines keyboard&#45;related events in the Bloom Engine." alt="" coords="508,5,654,48"/>
+<area shape="rect" id="Node000002" href="$d6/dc3/_event_8hpp.html" title="Provides the base classes and macros to define and handle events in the Bloom Engine." alt="" coords="541,96,621,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,49,584,80,578,80,578,49"/>
+<area shape="rect" id="Node000003" href="$de/d3a/pch_8h.html" title="Precompiled header file." alt="" coords="554,171,608,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="584,123,584,155,578,155,578,123"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,245,77,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="554,190,365,208,232,225,92,247,91,242,231,220,364,203,554,185"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="100,245,168,272"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="554,191,401,211,184,247,183,242,400,205,554,186"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="192,245,244,272"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="554,192,431,212,260,248,259,242,430,207,553,187"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="269,245,344,272"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="555,195,359,246,358,241,553,190"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="368,245,445,272"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="555,199,452,241,450,236,553,194"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="469,245,522,272"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="568,200,523,237,520,233,564,196"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="547,245,615,272"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="584,198,584,230,578,230,578,198"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="639,245,696,272"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="598,196,643,233,640,237,594,200"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="720,245,759,272"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="609,195,707,240,705,245,607,200"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="783,245,894,272"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="609,190,779,238,778,243,607,195"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="917,245,957,272"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="609,186,733,205,816,222,903,243,902,248,815,227,732,210,608,191"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="981,245,1085,272"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="609,187,966,242,965,247,608,192"/>
+<area shape="rect" id="Node000016" href="$d4/d09/_core_8h.html" title="Core defines of the engine." alt="" coords="1109,245,1210,272"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="608,185,806,205,1094,242,1093,248,806,211,608,190"/>
+</map>
